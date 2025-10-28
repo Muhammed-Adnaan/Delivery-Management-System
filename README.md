@@ -111,7 +111,7 @@ flowchart TB
 
 ---
 
-## ⚙️ Installation
+## Installation
 
 ### Prerequisites
 Ensure you have installed:
