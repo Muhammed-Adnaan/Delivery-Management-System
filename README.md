@@ -9,7 +9,7 @@ This project is divided into two main parts:
 
 ## Table of Contents
 - [Introduction](#introduction)
-- [Features](#-features)
+- [Features](#features)
 - [Architecture](#architecture)
 - [Tech Stack](#tech-stack)
 - [Installation](#installation)
