@@ -1,0 +1,108 @@
+@import "tailwindcss/base";
+@import "tailwindcss/components";
+@import "tailwindcss/utilities";
+
+body {
+  margin: 0;
+  box-sizing: border-box;
+  padding: 0;
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+/* Dark mode base styles */
+.dark body {
+  background-color: #111827;
+  color: #f9fafb;
+}
+
+/* Custom scrollbar styles */
+.scrollbar-purple::-webkit-scrollbar {
+  height: 8px;
+}
+
+.scrollbar-purple::-webkit-scrollbar-track {
+  background: #f3e8ff;
+  border-radius: 4px;
+}
+
+.scrollbar-purple::-webkit-scrollbar-thumb {
+  background: #8b5cf6;
+  border-radius: 4px;
+}
+
+.scrollbar-purple::-webkit-scrollbar-thumb:hover {
+  background: #7c3aed;
+}
+
+.dark .scrollbar-purple::-webkit-scrollbar-track {
+  background: #1e1b4b;
+}
+
+.dark .scrollbar-purple::-webkit-scrollbar-thumb {
+  background: #a78bfa;
+}
+
+.dark .scrollbar-purple::-webkit-scrollbar-thumb:hover {
+  background: #c4b5fd;
+}
+
+.scrollbar-green::-webkit-scrollbar {
+  height: 8px;
+}
+
+.scrollbar-green::-webkit-scrollbar-track {
+  background: #f0fdf4;
+  border-radius: 4px;
+}
+
+.scrollbar-green::-webkit-scrollbar-thumb {
+  background: #22c55e;
+  border-radius: 4px;
+}
+
+.scrollbar-green::-webkit-scrollbar-thumb:hover {
+  background: #16a34a;
+}
+
+.dark .scrollbar-green::-webkit-scrollbar-track {
+  background: #14532d;
+}
+
+.dark .scrollbar-green::-webkit-scrollbar-thumb {
+  background: #4ade80;
+}
+
+.dark .scrollbar-green::-webkit-scrollbar-thumb:hover {
+  background: #86efac;
+}
+
+.scrollbar-yellow::-webkit-scrollbar {
+  height: 8px;
+}
+
+.scrollbar-yellow::-webkit-scrollbar-track {
+  background: #fefce8;
+  border-radius: 4px;
+}
+
+.scrollbar-yellow::-webkit-scrollbar-thumb {
+  background: #eab308;
+  border-radius: 4px;
+}
+
+.scrollbar-yellow::-webkit-scrollbar-thumb:hover {
+  background: #ca8a04;
+}
+
+.dark .scrollbar-yellow::-webkit-scrollbar-track {
+  background: #422006;
+}
+
+.dark .scrollbar-yellow::-webkit-scrollbar-thumb {
+  background: #facc15;
+}
+
+.dark .scrollbar-yellow::-webkit-scrollbar-thumb:hover {
+  background: #fde047;
+}
+

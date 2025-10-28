@@ -1,0 +1,11 @@
+customer_name,email,address,latitude,longitude,weight,eta,status,created_at,amount,mode
+Ravi Kumar,muhammedafnaan33@gmail.com,"123 MG Road, Bengaluru, Karnataka",12.9716,77.5946,10.5,2024-06-15T10:00:00Z,Pending,2024-06-14T18:45:00Z,1150,UPI
+Priya Shetty,muhammedadnaan233@gmail.com,"45 Residency Road, Mangaluru, Karnataka",12.9141,74.8560,7.2,2024-06-15T12:00:00Z,Pending,2024-06-15T09:10:00Z,875,UPI
+Anil Gowda,anil.gowda@example.com,"78 Brigade Road, Mysuru, Karnataka",12.2958,76.6394,5.0,2024-06-15T14:00:00Z,Pending,2024-06-15T10:30:00Z,650,cod
+Lakshmi Rao,lakshmi.rao@example.com,"56 Nehru Nagar, Hubballi, Karnataka",15.3647,75.1240,8.3,2024-06-15T16:00:00Z,Pending,2024-06-14T21:00:00Z,920,cod
+Suresh Patil,suresh.patil@example.com,"90 Gandhi Bazaar, Belagavi, Karnataka",15.8497,74.4977,6.7,2024-06-15T18:00:00Z,Pending,2024-06-15T11:15:00Z,780,UPI
+Asha Naik,asha.naik@example.com,"22 Park Street, Davanagere, Karnataka",14.4644,75.9218,9.1,2024-06-16T09:00:00Z,Pending,2024-06-15T14:00:00Z,1050,UPI
+Manjunath Desai,m.desai@example.com,"11 College Road, Tumakuru, Karnataka",13.3422,77.1010,4.8,2024-06-16T11:00:00Z,Pending,2024-06-16T08:20:00Z,590,cod
+Deepa Reddy,deepa.reddy@example.com,"67 Market Road, Ballari, Karnataka",15.1394,76.9214,12.0,2024-06-16T13:00:00Z,Pending,2024-06-15T19:05:00Z,1300,UPI
+Vijay Singh,vijay.singh@example.com,"34 Main Road, Shivamogga, Karnataka",13.9299,75.5681,6.5,2024-06-16T15:00:00Z,Pending,2024-06-16T09:45:00Z,810,UPI
+Meena Joshi,muhammedafnaan33@gmail.com,"88 Temple Street, Hassan, Karnataka",13.0072,76.0962,7.9,2024-06-16T17:00:00Z,Pending,2024-06-16T10:00:00Z,900,cod
